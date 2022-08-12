@@ -106,10 +106,17 @@
     .container6 {
         width: 99%;
     }
-    .uncover {
+   
+    .container6a {
         display: inline-block;
     }
-    .hide {
+    .container6b {
+        display: none;
+    }
+    .container6c {
+        display: none;
+    }
+    .container6d {
         display: none;
     }
     .ntf11 {
@@ -348,17 +355,26 @@
         border-radius: 28%;
     }
     
-    .uncover {
+    .container6a {
         display: inline-block;
         overflow-x: auto;
         overflow-y: hidden;
     }
-    .hide {
+    .container6b {
         display: inline-block;
         overflow-x: auto;
         overflow-y: hidden;
     }
-
+    .container6c {
+        display: inline-block;
+        overflow-x: auto;
+        overflow-y: hidden;
+    }
+    .container6d {
+        display: inline-block;
+        overflow-x: auto;
+        overflow-y: hidden;
+    }
     .ntf11 {
         margin-left: 1px;
         margin-right: 1px;
