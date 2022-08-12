@@ -420,7 +420,9 @@ body {
     .graphic2 img {
         width: 88%;
     }
-
+    .container6 {
+        position: fixed;
+    }
     .container8 {
         display: inline-block;
     }
