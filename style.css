@@ -1,4 +1,6 @@
-
+body {
+    margin: 2%
+}
 
  @media only screen and (max-width: 767px) {
 
@@ -37,7 +39,7 @@
     }
 
     .graphic img {
-        width: 100%;
+        width: 104%;
     }
 
     .button1 {
@@ -51,6 +53,7 @@
         font-size: 16px;
         margin: 4px 2px;
         border-radius: 28%;
+        cursor: pointer;
     }
 
     .container3 {
@@ -142,6 +145,24 @@
     .ntf21>img {
         margin-left: 45%;
     }
+    .text2 {
+        display: inline-block;
+        width: 66%;
+        margin-bottom: 3%;
+    }
+    .txtnormal2 {
+        width: 65%;
+    }
+    .graphic2 {
+        display: inline-block;
+        margin-left: 64%;
+        margin-top: -38%;
+        
+    }
+
+    .graphic2 img {
+        width: 66%;
+    }
     .container9a {
         display: inline-block;
         width: 37%;
@@ -211,11 +232,7 @@
         text-decoration: none;
         margin: 4px 2px;
         border-radius: 28%;
-    }
-    .text2 {
-        display: inline-block;
-        width: 66%;
-        margin-bottom: 3%;
+        cursor: pointer;
     }
     
     .footer {
@@ -264,12 +281,10 @@
         color: rgb(73, 68, 68);
     }
     .graphic {
-        margin-left: 35%;
-        margin-top: 8%;
         display: inline-block;
     }
     .graphic img {
-        width: 100%;
+        width: 103%;
     }
     .button1 {
         background-color: white;
@@ -282,6 +297,7 @@
         font-size: 16px;
         margin: 4px 2px;
         border-radius: 28%;
+        cursor: pointer;
     }
     .container3 {
         position: relative;
@@ -346,6 +362,7 @@
         text-decoration: none;
         margin: 4px 2px;
         border-radius: 28%;
+        cursor: pointer;
     }
     
     .uncover {
@@ -396,12 +413,12 @@
         width: 32%;
     }
     .graphic2 {
-        margin-left: 84%;
+        margin-left: 64%;
         margin-top: -16%;
         display: inline-block;
     }
     .graphic2 img {
-        width: 82%;
+        width: 88%;
     }
 
     .container8 {
